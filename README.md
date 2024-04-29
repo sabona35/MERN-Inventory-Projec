@@ -1,1 +1,1 @@
-# MERN-Inventory-Projec
+# MERN-Inventory-Project
